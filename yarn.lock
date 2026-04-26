@@ -1970,7 +1970,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/cli@npm:^11.0.0":
+"@nestjs/cli@npm:^11.0.21":
   version: 11.0.21
   resolution: "@nestjs/cli@npm:11.0.21"
   dependencies:
@@ -7278,7 +7278,7 @@ __metadata:
     "@aws-sdk/s3-request-presigner": "npm:^3.882.0"
     "@eslint/eslintrc": "npm:^3.2.0"
     "@eslint/js": "npm:^9.18.0"
-    "@nestjs/cli": "npm:^11.0.0"
+    "@nestjs/cli": "npm:^11.0.21"
     "@nestjs/common": "npm:^11.0.1"
     "@nestjs/config": "npm:^4.0.2"
     "@nestjs/core": "npm:^11.0.1"
